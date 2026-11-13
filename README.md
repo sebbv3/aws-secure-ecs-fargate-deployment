@@ -89,8 +89,10 @@ The Docker container ran on AWS Fargate, received its database credentials from 
 - **Container Technology:** Docker
 - **Compute:** Amazon ECS Fargate
 
----
+<img width="2559" height="1350" alt="Screenshot 2026-11-12 195737" src="https://github.com/user-attachments/assets/37b75ef5-2822-48ac-8ee7-6792dbf81be5" />
+<img width="2559" height="1348" alt="Screenshot 2026-11-12 195541" src="https://github.com/user-attachments/assets/2bcdc164-ae14-4db1-aa31-255eec84a628" />
+<img width="2559" height="1348" alt="Screenshot 2026-11-12 195459" src="https://github.com/user-attachments/assets/babf4a0c-fa1a-46e8-ac2a-f0923060169a" />
+<img width="2559" height="1347" alt="Screenshot 2026-11-12 195413" src="https://github.com/user-attachments/assets/e564a0b0-4c3e-4ade-8ee7-9464828f86b0" />
+<img width="2554" height="1349" alt="Screenshot 2026-11-12 195226" src="https://github.com/user-attachments/assets/87f55cc5-2aff-43d9-8387-36940409c404" />
 
-**Author:** Sebastian Vita  
-**Program:** Cloud Computing & DevOps — MCIT  
-**Project Type:** Hands-on AWS Lab
+
