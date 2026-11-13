@@ -55,7 +55,7 @@ AWS Secrets Manager securely provides credentials to the running container throu
 - Confirmed successful secret injection.
 - Reviewed application output in CloudWatch Logs.
 - Verified that the application heartbeat was working.
--
+  
 - ## Results
 
 **The deployment was successful.**
