@@ -55,18 +55,8 @@ AWS Secrets Manager securely provides credentials to the running container throu
 - Confirmed successful secret injection.
 - Reviewed application output in CloudWatch Logs.
 - Verified that the application heartbeat was working.
-
-## Screenshots
-
-Evidence collected during the lab:
-
-1. Amazon ECR repository and Docker image.
-2. IAM roles and permissions.
-3. ECS Fargate task definition.
-4. ECS service with one running task.
-5. Application logs confirming successful secret injection.
-
-## Results
+-
+- ## Results
 
 **The deployment was successful.**
 
